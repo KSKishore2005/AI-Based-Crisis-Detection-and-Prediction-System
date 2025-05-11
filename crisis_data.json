@@ -1,0 +1,22 @@
+{
+    "crises": [
+        {
+            "location": "Region A",
+            "risk_level": "high",
+            "sentiment": -0.6,
+            "unemployment_rate": 9.0
+        },
+        {
+            "location": "Region B",
+            "risk_level": "medium",
+            "sentiment": -0.2,
+            "unemployment_rate": 5.5
+        },
+        {
+            "location": "Region C",
+            "risk_level": "low",
+            "sentiment": 0.4,
+            "unemployment_rate": 3.0
+        }
+    ]
+}
