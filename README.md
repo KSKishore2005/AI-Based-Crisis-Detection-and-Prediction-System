@@ -47,5 +47,5 @@ The system architecture includes:
 
 ---
 
-## 📁 Folder Structure
+
 
